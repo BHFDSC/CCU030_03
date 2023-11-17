@@ -14,7 +14,7 @@ Description will be added here.
 
 ## Project approval
 
-This is a sub-project of [project CCU0XX](https://github.com/BHFDSC/CCU030) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU030_03).
+This is a sub-project of [project CCU030](https://github.com/BHFDSC/CCU030) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU030_03).
 
 ## License
 
