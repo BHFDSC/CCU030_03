@@ -1,0 +1,379 @@
+snomed,id,on_id_register,id_severity,id_severity_lab
+508171000000105,1,null,4,severe
+889211000000104,1,null,1,ID of unspecified severity
+931001000000105,1,null,1,ID of unspecified severity
+984661000000105,1,null,2,mild
+1093991000000100,1,null,2,mild
+1093991000000101,1,null,2,mild
+1094001000000100,1,null,1,ID of unspecified severity
+1094001000000106,1,null,1,ID of unspecified severity
+1094011000000100,1,null,1,ID of unspecified severity
+1094011000000108,1,null,1,ID of unspecified severity
+1094021000000100,1,null,1,ID of unspecified severity
+1094021000000102,1,null,1,ID of unspecified severity
+1094031000000100,1,null,1,ID of unspecified severity
+1239331000000100,1,null,1,ID of unspecified severity
+722213009,1,null,4,severe
+722281001,1,null,4,severe
+722282008,1,null,1,ID of unspecified severity
+722379001,1,null,1,ID of unspecified severity
+723621000,1,null,1,ID of unspecified severity
+723676007,1,null,4,severe
+723994004,1,null,1,ID of unspecified severity
+724001005,1,null,1,ID of unspecified severity
+773772001,1,null,1,ID of unspecified severity
+774068004,1,null,1,ID of unspecified severity
+778011005,1,null,4,severe
+782676009,1,null,1,ID of unspecified severity
+57917004,1,null,1,ID of unspecified severity
+59252009,1,null,1,ID of unspecified severity
+61152003,1,null,3,moderate
+717945001,1,null,4,severe
+718226002,1,null,1,ID of unspecified severity
+718573009,1,null,1,ID of unspecified severity
+782941005,1,null,1,ID of unspecified severity
+782945001,1,null,1,ID of unspecified severity
+783005002,1,null,4,severe
+763626009,1,null,1,ID of unspecified severity
+763665007,1,null,1,ID of unspecified severity
+763722004,1,null,4,severe
+773400009,1,null,1,ID of unspecified severity
+773405004,1,null,1,ID of unspecified severity
+773419004,1,null,4,severe
+782723007,1,null,4,severe
+782736007,1,null,1,ID of unspecified severity
+782753000,1,null,1,ID of unspecified severity
+21111006,1,null,1,ID of unspecified severity
+21634003,1,null,1,ID of unspecified severity
+31216003,1,null,5,profound
+782755007,1,null,2,mild
+782772000,1,null,1,ID of unspecified severity
+782886007,1,null,1,ID of unspecified severity
+33982008,1,null,1,ID of unspecified severity
+40354009,1,null,1,ID of unspecified severity
+40700009,1,null,4,severe
+76880004,1,null,1,ID of unspecified severity
+79385002,1,null,1,ID of unspecified severity
+86765009,1,null,2,mild
+416075005,1,1,1,ID of unspecified severity
+422437002,1,null,1,ID of unspecified severity
+432091002,1,null,1,ID of unspecified severity
+442511009,1,null,1,ID of unspecified severity
+838441009,1,null,1,ID of unspecified severity
+840505007,1,null,1,ID of unspecified severity
+879919001,1,null,1,ID of unspecified severity
+879937000,1,null,1,ID of unspecified severity
+984671000000103,1,null,3,moderate
+984681000000101,1,null,5,profound
+1089701000000100,1,null,5,profound
+763350002,1,null,1,ID of unspecified severity
+763404001,1,null,1,ID of unspecified severity
+763615003,1,null,1,ID of unspecified severity
+763618001,1,null,1,ID of unspecified severity
+764959000,1,null,1,ID of unspecified severity
+765089003,1,null,1,ID of unspecified severity
+765170001,1,null,1,ID of unspecified severity
+765434008,1,null,1,ID of unspecified severity
+719834005,1,null,1,ID of unspecified severity
+719842006,1,null,1,ID of unspecified severity
+719909009,1,null,1,ID of unspecified severity
+719947004,1,null,1,ID of unspecified severity
+732954002,1,null,1,ID of unspecified severity
+732961003,1,null,1,ID of unspecified severity
+733031004,1,null,1,ID of unspecified severity
+733032006,1,null,1,ID of unspecified severity
+770907002,1,null,1,ID of unspecified severity
+770908007,1,null,1,ID of unspecified severity
+770948004,1,null,1,ID of unspecified severity
+771072001,1,null,1,ID of unspecified severity
+205615000,1,null,1,ID of unspecified severity
+205616004,1,null,1,ID of unspecified severity
+205824006,1,null,1,ID of unspecified severity
+232059000,1,null,1,ID of unspecified severity
+234146006,1,null,1,ID of unspecified severity
+253176002,1,null,1,ID of unspecified severity
+254264002,1,null,1,ID of unspecified severity
+254268004,1,null,1,ID of unspecified severity
+371045000,1,null,1,ID of unspecified severity
+401315004,1,null,1,ID of unspecified severity
+403554008,1,null,1,ID of unspecified severity
+412787009,1,null,1,ID of unspecified severity
+699297004,1,null,1,ID of unspecified severity
+699298009,1,null,1,ID of unspecified severity
+699669001,1,null,1,ID of unspecified severity
+702327009,1,null,1,ID of unspecified severity
+702344008,1,null,1,ID of unspecified severity
+702357000,1,null,1,ID of unspecified severity
+702412005,1,null,1,ID of unspecified severity
+702416008,1,null,1,ID of unspecified severity
+702816000,1,null,1,ID of unspecified severity
+703526007,1,null,1,ID of unspecified severity
+703535000,1,null,1,ID of unspecified severity
+715409005,1,null,1,ID of unspecified severity
+715428003,1,null,1,ID of unspecified severity
+715628009,1,null,1,ID of unspecified severity
+715989002,1,null,1,ID of unspecified severity
+716024001,1,null,1,ID of unspecified severity
+716089008,1,null,1,ID of unspecified severity
+716096005,1,null,1,ID of unspecified severity
+716112005,1,null,1,ID of unspecified severity
+716191002,1,null,1,ID of unspecified severity
+716334004,1,null,1,ID of unspecified severity
+716709002,1,null,1,ID of unspecified severity
+716996008,1,null,1,ID of unspecified severity
+717157006,1,null,1,ID of unspecified severity
+717223008,1,null,1,ID of unspecified severity
+717763008,1,null,1,ID of unspecified severity
+717822006,1,null,1,ID of unspecified severity
+717887003,1,null,1,ID of unspecified severity
+718577005,1,null,1,ID of unspecified severity
+718680001,1,null,1,ID of unspecified severity
+718681002,1,null,1,ID of unspecified severity
+718766002,1,null,1,ID of unspecified severity
+718846001,1,null,1,ID of unspecified severity
+718848000,1,null,1,ID of unspecified severity
+718909001,1,null,1,ID of unspecified severity
+718910006,1,null,1,ID of unspecified severity
+718911005,1,null,1,ID of unspecified severity
+718912003,1,null,1,ID of unspecified severity
+718914002,1,null,1,ID of unspecified severity
+719009006,1,null,1,ID of unspecified severity
+719010001,1,null,1,ID of unspecified severity
+719011002,1,null,1,ID of unspecified severity
+719012009,1,null,1,ID of unspecified severity
+719013004,1,null,1,ID of unspecified severity
+719016007,1,null,1,ID of unspecified severity
+719017003,1,null,1,ID of unspecified severity
+719018008,1,null,1,ID of unspecified severity
+719020006,1,null,1,ID of unspecified severity
+719069008,1,null,1,ID of unspecified severity
+719097002,1,null,1,ID of unspecified severity
+719136005,1,null,1,ID of unspecified severity
+719137001,1,null,1,ID of unspecified severity
+719157002,1,null,1,ID of unspecified severity
+719160009,1,null,1,ID of unspecified severity
+719162001,1,null,1,ID of unspecified severity
+719202006,1,null,1,ID of unspecified severity
+719212004,1,null,1,ID of unspecified severity
+719378009,1,null,1,ID of unspecified severity
+719380003,1,null,1,ID of unspecified severity
+719396000,1,null,1,ID of unspecified severity
+719450007,1,null,1,ID of unspecified severity
+719599008,1,null,1,ID of unspecified severity
+719800009,1,null,1,ID of unspecified severity
+719808002,1,null,1,ID of unspecified severity
+719810000,1,null,1,ID of unspecified severity
+719811001,1,null,1,ID of unspecified severity
+719812008,1,null,1,ID of unspecified severity
+720401009,1,null,1,ID of unspecified severity
+720468000,1,null,1,ID of unspecified severity
+720501007,1,null,1,ID of unspecified severity
+720517001,1,null,1,ID of unspecified severity
+720523006,1,null,1,ID of unspecified severity
+720635002,1,null,1,ID of unspecified severity
+720639008,1,null,1,ID of unspecified severity
+720746006,1,null,1,ID of unspecified severity
+720748007,1,null,1,ID of unspecified severity
+720954000,1,null,1,ID of unspecified severity
+720955004,1,null,1,ID of unspecified severity
+720957007,1,null,1,ID of unspecified severity
+720958002,1,null,1,ID of unspecified severity
+720979002,1,null,1,ID of unspecified severity
+720981000,1,null,1,ID of unspecified severity
+720982007,1,null,1,ID of unspecified severity
+721007005,1,null,1,ID of unspecified severity
+721008000,1,null,1,ID of unspecified severity
+721017000,1,null,1,ID of unspecified severity
+721073008,1,null,1,ID of unspecified severity
+721087008,1,null,1,ID of unspecified severity
+721089006,1,null,1,ID of unspecified severity
+721146009,1,null,1,ID of unspecified severity
+721207002,1,null,1,ID of unspecified severity
+721208007,1,null,1,ID of unspecified severity
+721224008,1,null,1,ID of unspecified severity
+721875000,1,null,1,ID of unspecified severity
+721973006,1,null,1,ID of unspecified severity
+721974000,1,null,1,ID of unspecified severity
+722002002,1,null,1,ID of unspecified severity
+722003007,1,null,1,ID of unspecified severity
+722031003,1,null,1,ID of unspecified severity
+722033000,1,null,1,ID of unspecified severity
+722035007,1,null,1,ID of unspecified severity
+722037004,1,null,1,ID of unspecified severity
+722055008,1,null,1,ID of unspecified severity
+722065002,1,null,1,ID of unspecified severity
+722110003,1,null,1,ID of unspecified severity
+722111004,1,null,1,ID of unspecified severity
+722209002,1,null,1,ID of unspecified severity
+722380003,1,null,1,ID of unspecified severity
+722454003,1,null,1,ID of unspecified severity
+722455002,1,null,1,ID of unspecified severity
+722456001,1,null,1,ID of unspecified severity
+722459008,1,null,1,ID of unspecified severity
+722478008,1,null,1,ID of unspecified severity
+723304001,1,null,1,ID of unspecified severity
+723332005,1,null,1,ID of unspecified severity
+723333000,1,null,1,ID of unspecified severity
+723336008,1,null,1,ID of unspecified severity
+723365002,1,null,1,ID of unspecified severity
+723403008,1,null,1,ID of unspecified severity
+723441001,1,null,1,ID of unspecified severity
+723501008,1,null,1,ID of unspecified severity
+723504000,1,null,1,ID of unspecified severity
+724137002,1,null,1,ID of unspecified severity
+724207001,1,null,1,ID of unspecified severity
+724228005,1,null,1,ID of unspecified severity
+725140007,1,null,1,ID of unspecified severity
+725163002,1,null,1,ID of unspecified severity
+725289009,1,null,1,ID of unspecified severity
+725589005,1,null,1,ID of unspecified severity
+725906006,1,null,1,ID of unspecified severity
+725908007,1,null,1,ID of unspecified severity
+725912001,1,null,1,ID of unspecified severity
+726031001,1,null,1,ID of unspecified severity
+726670008,1,null,1,ID of unspecified severity
+726672000,1,null,1,ID of unspecified severity
+726709001,1,null,1,ID of unspecified severity
+726727003,1,null,1,ID of unspecified severity
+726732002,1,null,1,ID of unspecified severity
+732246009,1,null,1,ID of unspecified severity
+732251003,1,null,1,ID of unspecified severity
+733049004,1,null,1,ID of unspecified severity
+733072002,1,null,1,ID of unspecified severity
+733086003,1,null,1,ID of unspecified severity
+733088002,1,null,1,ID of unspecified severity
+733090001,1,null,1,ID of unspecified severity
+733097003,1,null,1,ID of unspecified severity
+733110004,1,null,1,ID of unspecified severity
+733117001,1,null,1,ID of unspecified severity
+733417008,1,null,1,ID of unspecified severity
+733419006,1,null,1,ID of unspecified severity
+733455003,1,null,1,ID of unspecified severity
+733472005,1,null,1,ID of unspecified severity
+733522005,1,null,1,ID of unspecified severity
+734017008,1,null,1,ID of unspecified severity
+734349003,1,null,1,ID of unspecified severity
+763136000,1,null,1,ID of unspecified severity
+763186006,1,null,1,ID of unspecified severity
+763320005,1,null,1,ID of unspecified severity
+763741001,1,null,1,ID of unspecified severity
+763742008,1,null,1,ID of unspecified severity
+763743003,1,null,1,ID of unspecified severity
+763744009,1,null,1,ID of unspecified severity
+763745005,1,null,1,ID of unspecified severity
+763773007,1,null,1,ID of unspecified severity
+763795006,1,null,1,ID of unspecified severity
+763797003,1,null,1,ID of unspecified severity
+763837007,1,null,1,ID of unspecified severity
+763861000,1,null,1,ID of unspecified severity
+764861005,1,null,1,ID of unspecified severity
+764950001,1,null,1,ID of unspecified severity
+765471005,1,null,1,ID of unspecified severity
+765761009,1,null,1,ID of unspecified severity
+766753005,1,null,1,ID of unspecified severity
+766870005,1,null,1,ID of unspecified severity
+766871009,1,null,1,ID of unspecified severity
+768677000,1,null,1,ID of unspecified severity
+770401007,1,null,1,ID of unspecified severity
+770411000,1,null,1,ID of unspecified severity
+770564004,1,null,1,ID of unspecified severity
+770566002,1,null,1,ID of unspecified severity
+770595006,1,null,1,ID of unspecified severity
+770663003,1,null,1,ID of unspecified severity
+770678005,1,null,1,ID of unspecified severity
+770679002,1,null,1,ID of unspecified severity
+770719004,1,null,1,ID of unspecified severity
+770750002,1,null,1,ID of unspecified severity
+770755007,1,null,1,ID of unspecified severity
+770901001,1,null,1,ID of unspecified severity
+771149000,1,null,1,ID of unspecified severity
+771262009,1,null,1,ID of unspecified severity
+771336003,1,null,1,ID of unspecified severity
+771472009,1,null,1,ID of unspecified severity
+771512003,1,null,1,ID of unspecified severity
+772127009,1,null,1,ID of unspecified severity
+773230003,1,null,1,ID of unspecified severity
+773329005,1,null,1,ID of unspecified severity
+773394007,1,null,1,ID of unspecified severity
+773498006,1,null,1,ID of unspecified severity
+773581009,1,null,1,ID of unspecified severity
+773665006,1,null,1,ID of unspecified severity
+773670004,1,null,1,ID of unspecified severity
+773699009,1,null,1,ID of unspecified severity
+773769008,1,null,1,ID of unspecified severity
+783174004,1,null,1,ID of unspecified severity
+783702009,1,null,1,ID of unspecified severity
+783703004,1,null,1,ID of unspecified severity
+787093004,1,null,1,ID of unspecified severity
+788417006,1,null,1,ID of unspecified severity
+816067005,1,null,1,ID of unspecified severity
+880065001,1,null,1,ID of unspecified severity
+880066000,1,null,1,ID of unspecified severity
+880081006,1,null,1,ID of unspecified severity
+890118006,1,null,1,ID of unspecified severity
+890123006,1,null,1,ID of unspecified severity
+890130000,1,null,1,ID of unspecified severity
+890221004,1,null,1,ID of unspecified severity
+890285006,1,null,1,ID of unspecified severity
+890286007,1,null,1,ID of unspecified severity
+890433006,1,null,1,ID of unspecified severity
+890434000,1,null,1,ID of unspecified severity
+1003368009,1,null,1,ID of unspecified severity
+1003373003,1,null,1,ID of unspecified severity
+1003374009,1,null,1,ID of unspecified severity
+1003387003,1,null,1,ID of unspecified severity
+1003389000,1,null,1,ID of unspecified severity
+1003409002,1,null,1,ID of unspecified severity
+1010630006,1,null,1,ID of unspecified severity
+718897009,1,null,1,ID of unspecified severity
+718900002,1,null,1,ID of unspecified severity
+718905007,1,null,1,ID of unspecified severity
+718908009,1,null,1,ID of unspecified severity
+719138006,1,null,1,ID of unspecified severity
+719139003,1,null,1,ID of unspecified severity
+719140001,1,null,1,ID of unspecified severity
+719155005,1,null,1,ID of unspecified severity
+65327002,1,null,1,ID of unspecified severity
+66758006,1,null,1,ID of unspecified severity
+68618008,1,null,1,ID of unspecified severity
+70173007,1,null,1,ID of unspecified severity
+1089731000000104,1,null,5,profound
+1089741000000100,1,null,4,severe
+1089741000000108,1,null,4,severe
+2593002,1,null,1,ID of unspecified severity
+5619004,1,null,1,ID of unspecified severity
+10007009,1,null,1,ID of unspecified severity
+41040004,1,null,1,ID of unspecified severity
+51500006,1,null,1,ID of unspecified severity
+56604005,1,null,1,ID of unspecified severity
+89392001,1,null,1,ID of unspecified severity
+109478007,1,null,1,ID of unspecified severity
+110359009,1,null,1,ID of unspecified severity
+15182000,1,null,1,ID of unspecified severity
+17122004,1,null,1,ID of unspecified severity
+17827007,1,null,1,ID of unspecified severity
+1089781000000100,1,null,3,moderate
+1089791000000100,1,null,3,moderate
+1089791000000103,1,null,3,moderate
+1089811000000100,1,null,3,moderate
+1089701000000105,1,null,5,profound
+1089711000000100,1,null,5,profound
+1089711000000107,1,null,5,profound
+1089721000000100,1,null,5,profound
+1089721000000101,1,null,5,profound
+1089731000000100,1,null,5,profound
+1089811000000102,1,null,3,moderate
+1089821000000100,1,null,3,moderate
+1089821000000108,1,null,3,moderate
+1089751000000100,1,null,4,severe
+1089751000000106,1,null,4,severe
+1089761000000100,1,null,4,severe
+1089761000000109,1,null,4,severe
+1089771000000100,1,null,4,severe
+1089771000000102,1,null,4,severe
+1089831000000100,1,null,2,mild
+1089831000000105,1,null,2,mild
+1089841000000100,1,null,2,mild
+1089841000000101,1,null,2,mild
+1089851000000100,1,null,2,mild
+1089851000000103,1,null,2,mild
