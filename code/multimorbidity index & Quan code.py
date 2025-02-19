@@ -118,6 +118,19 @@ mymodel = make_pipeline(StandardScaler(), LogisticRegression(solver="lbfgs", ran
 scores = cross_val_score(mymodel, df_temp, pdf['covid_death'], scoring = "roc_auc", cv=5)
 print("model vars: \n", myvars, "mean score: \n", scores.mean())  
 
+# Compute 95% confidence interval for AUC using t-distribution
+from scipy.stats import sem, t
+mean_auc = np.mean(scores)
+sem_auc = sem(scores)  # Standard error of the mean
+confidence = 0.95
+dfs = len(scores) - 1  # Degrees of freedom
+t_value = t.ppf((1 + confidence) / 2, dfs)  # Two-tailed t-value
+margin_of_error = t_value * sem_auc
+lower_bound = mean_auc - margin_of_error
+upper_bound = mean_auc + margin_of_error
+print(f"Mean AUC: {mean_auc:.4f}")
+print(f"95% Confidence Interval: ({lower_bound:.4f}, {upper_bound:.4f})")
+
 # get p-values from that model
 df_temp = pdf[['age_at_covid', 'MMI_apc']]
 import statsmodels.api as sm
@@ -141,6 +154,19 @@ df_temp = pdf[myvars]
 mymodel = make_pipeline(StandardScaler(), LogisticRegression(solver="lbfgs", random_state=42)).fit(df_temp, pdf['covid_death'])
 scores = cross_val_score(mymodel, df_temp, pdf['covid_death'], scoring = "roc_auc", cv=5)
 print("model vars: \n", myvars, "mean score: \n", scores.mean())
+
+# Compute 95% confidence interval for AUC using t-distribution
+from scipy.stats import sem, t
+mean_auc = np.mean(scores)
+sem_auc = sem(scores)  # Standard error of the mean
+confidence = 0.95
+dfs = len(scores) - 1  # Degrees of freedom
+t_value = t.ppf((1 + confidence) / 2, dfs)  # Two-tailed t-value
+margin_of_error = t_value * sem_auc
+lower_bound = mean_auc - margin_of_error
+upper_bound = mean_auc + margin_of_error
+print(f"Mean AUC: {mean_auc:.4f}")
+print(f"95% Confidence Interval: ({lower_bound:.4f}, {upper_bound:.4f})")
 
 # get p-values from that model
 df_temp = pdf[['age_at_covid', 'quan_index2']]
