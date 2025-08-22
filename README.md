@@ -1,5 +1,7 @@
 # Making a case for an autism-specific bespoke multimorbidity index: a COVID-19 pilot study
 
+**Dewy Nijhof, Filip Sosenko, Laura McKernan Ward, Deborah Cairns, Laura Hughes, Ewelina Rydzewska, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium** 
+
 ## Project description
 
 Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder characterised mainly by differences in social communication and interaction and repetitive and restrictive behaviours, including differences in sensory preferences. Autistic people are estimated to account for 0.6 to 1.0% of the global population. They experience substantial health inequalities, including multimorbidity, defined as the association of at least two chronic health conditions. ASD has been proposed as a potential risk factor for the development of COVID-19 infections due to a number of factors including experiencing difficulties in maintaining social distancing due to sensory difficulties and use of atypical antipsychotics, such as risperidone, frequently prescribed to individuals with ASD, which have been shown to disrupt immune responses, and therefore increase the risk of COVID infection and mortality. 
@@ -17,7 +19,7 @@ This may be of importance for the autistic population, as common physical and me
 To our knowledge, there has been no previous research into the effectiveness of using existing multimorbidity indices to investigate health outcomes in autism nor the construction of a multimorbidity index for autistic populations specifically. As such, the current study aimed to create a multimorbidity index which better captures long-term conditions presenting a risk to the health of the autistic population and to pilot this index in the context of COVID-19 outcomes in this population. 
 
 ## How to cite this work
-> Citation details to follow
+Nijhof, D., Sosenko, F., Ward, L.M. et al. Making a Case for an Autism-Specific Multimorbidity Index: A Comparative Cohort Study. J Autism Dev Disord (2025). https://doi.org/10.1007/s10803-025-06823-x
 
 ## Contents
 
